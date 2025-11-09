@@ -26,6 +26,14 @@ The Employee Management System HR Tool is a fully-featured, secure, and easy-to-
 
 Ideal for small to medium-sized businesses, this tool can be customized for your specific HR needs.
 
+# Screenshots
+![EmployeeFlow Logo](./EmployeeFlow%20logo.png)
+![Screenshot 1](./assets/Screenshot1.jpg)
+![Screenshot 2](./Screenshort2.jpg)
+
+#Demo
+Check out the demo video: [Demo Video](./Demo%20video.mp4)
+
 2. #Features
 
 • Add, view, update, and delete employee records
@@ -85,11 +93,6 @@ Remove employees safely with confirmation prompts.
 • Reports & Export
 Export data to CSV files for backups or analysis.
 
-5. Demo
-
-You can showcase your live demo or run the application locally:
-
-python employee_system_secure_app.py
 
 6. Configuration
 
@@ -109,6 +112,13 @@ Contributions are welcome! You can:
 
 • Submit pull requests
 
+# Future Plans
+- Add a web interface (Flask-based).
+- Include payroll and integrations.
+- Scale for big industry use.
+
+## Contact
+Connect with me on [LinkedIn](https://www.linkedin.com/in/kalinoosi) or hire me on Fiverr!
 8. License
 
 This project is licensed under the MIT License — see the LICENSE
