@@ -1,4 +1,5 @@
 #Employee Management System (Secure HR Tool)
+![EmployeeFlow Logo](./EmployeeFlow logo.png)
 
 A Python-based secure Employee Management System for businesses — Open Source under MIT License
 
@@ -26,13 +27,15 @@ The Employee Management System HR Tool is a fully-featured, secure, and easy-to-
 
 Ideal for small to medium-sized businesses, this tool can be customized for your specific HR needs.
 
-# Screenshots
-![EmployeeFlow Logo](./EmployeeFlow%20logo.png)
-![Screenshot 1](./assets/Screenshot1.jpg)
+# Cover
+![Cover Photo](./Cover photo.png)
+
+#Screenshots
+![Screenshot 1](.//Screenshot1.jpg)
 ![Screenshot 2](./Screenshort2.jpg)
 
 #Demo
-Check out the demo video: [Demo Video](./Demo%20video.mp4)
+Check out the demo video: [Demo Video](./Demo video.mp4)
 
 2. #Features
 
@@ -119,6 +122,7 @@ Contributions are welcome! You can:
 
 ## Contact
 Connect with me on [LinkedIn](https://www.linkedin.com/in/kalinoosi) or hire me on Fiverr!
+
 8. License
 
 This project is licensed under the MIT License — see the LICENSE
